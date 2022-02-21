@@ -1,0 +1,255 @@
+{
+	"frames": {
+		"drag1.png": {
+			"frame": {
+				"x": 1,
+				"y": 1,
+				"w": 146,
+				"h": 178
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 146,
+				"h": 178
+			},
+			"sourceSize": {
+				"w": 146,
+				"h": 178
+			}
+		},
+		"drag10.png": {
+			"frame": {
+				"x": 149,
+				"y": 1,
+				"w": 146,
+				"h": 178
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 146,
+				"h": 178
+			},
+			"sourceSize": {
+				"w": 146,
+				"h": 178
+			}
+		},
+		"drag11.png": {
+			"frame": {
+				"x": 297,
+				"y": 1,
+				"w": 146,
+				"h": 178
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 146,
+				"h": 178
+			},
+			"sourceSize": {
+				"w": 146,
+				"h": 178
+			}
+		},
+		"drag12.png": {
+			"frame": {
+				"x": 1,
+				"y": 181,
+				"w": 146,
+				"h": 178
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 146,
+				"h": 178
+			},
+			"sourceSize": {
+				"w": 146,
+				"h": 178
+			}
+		},
+		"drag2.png": {
+			"frame": {
+				"x": 149,
+				"y": 181,
+				"w": 146,
+				"h": 178
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 146,
+				"h": 178
+			},
+			"sourceSize": {
+				"w": 146,
+				"h": 178
+			}
+		},
+		"drag3.png": {
+			"frame": {
+				"x": 297,
+				"y": 181,
+				"w": 146,
+				"h": 178
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 146,
+				"h": 178
+			},
+			"sourceSize": {
+				"w": 146,
+				"h": 178
+			}
+		},
+		"drag4.png": {
+			"frame": {
+				"x": 1,
+				"y": 361,
+				"w": 146,
+				"h": 178
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 146,
+				"h": 178
+			},
+			"sourceSize": {
+				"w": 146,
+				"h": 178
+			}
+		},
+		"drag5.png": {
+			"frame": {
+				"x": 149,
+				"y": 361,
+				"w": 146,
+				"h": 178
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 146,
+				"h": 178
+			},
+			"sourceSize": {
+				"w": 146,
+				"h": 178
+			}
+		},
+		"drag6.png": {
+			"frame": {
+				"x": 297,
+				"y": 361,
+				"w": 146,
+				"h": 178
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 146,
+				"h": 178
+			},
+			"sourceSize": {
+				"w": 146,
+				"h": 178
+			}
+		},
+		"drag7.png": {
+			"frame": {
+				"x": 445,
+				"y": 1,
+				"w": 146,
+				"h": 178
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 146,
+				"h": 178
+			},
+			"sourceSize": {
+				"w": 146,
+				"h": 178
+			}
+		},
+		"drag8.png": {
+			"frame": {
+				"x": 445,
+				"y": 181,
+				"w": 146,
+				"h": 178
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 146,
+				"h": 178
+			},
+			"sourceSize": {
+				"w": 146,
+				"h": 178
+			}
+		},
+		"drag9.png": {
+			"frame": {
+				"x": 445,
+				"y": 361,
+				"w": 146,
+				"h": 178
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 146,
+				"h": 178
+			},
+			"sourceSize": {
+				"w": 146,
+				"h": 178
+			}
+		}
+	},
+	"meta": {
+		"app": "http://www.codeandweb.com/texturepacker",
+		"version": "1.0",
+		"image": "drags.png",
+		"format": "RGBA8888",
+		"size": {
+			"w": 592,
+			"h": 540
+		},
+		"scale": "1"
+	}
+}
